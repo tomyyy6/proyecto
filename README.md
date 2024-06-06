@@ -1,0 +1,3 @@
+La pagina que estoy haciendo es sobre la saga de Uncharted. Tiene 3 secciones con estilos css y bootstrap.
+Me costo mucho el tema de agregar bootstrap y configurarlo en mi pagina, tambien ajustar las imagenes con y sin el navbar, y falta configurar las media quaries.
+Me gustaria seguir agregando muchos mas elementos y corregir los que ya tengo como por ejemplo las imagenes o los elementos de bootstrap. ;))
